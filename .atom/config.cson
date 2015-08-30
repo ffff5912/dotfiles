@@ -1,0 +1,19 @@
+"*":
+  editor:
+    invisibles: {}
+    showInvisibles: true
+    showIndentGuide: true
+    tabLength: 4
+  core:
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  "exception-reporting":
+    userId: "ebe0d7e4-5cdc-49ed-ab62-84724422b70c"
+  welcome:
+    showOnStartup: false
+  "atom-beautify":
+    _analyticsUserId: "0400183f-f7ae-46e4-91b3-0fb7eb7e6f01"
+  react: {}
+  emmet: {}
